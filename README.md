@@ -1,6 +1,6 @@
 # TikTakToe
 
-Fun TikTakTao android game where you can play this awesome game and enjoy with your friends
+Fun TikTacTao android game where you can play this awesome game and enjoy with your friends
 
 ![T1](https://user-images.githubusercontent.com/75776014/113726486-e78dcc00-9711-11eb-80e9-a835cbfb6a1f.JPG)
 
